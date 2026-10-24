@@ -21,3 +21,8 @@ Then open http://localhost:8080
 
 ## Documentation
 Screenshots of the running application, the startup logs and the commit history are in the `doc` folder.
+## Collaboration
+
+This project was updated by TommasoFilippo72708 as part of a GitHub collaboration exercise.
+
+The application supports adding, listing, updating, and deleting students.
